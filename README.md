@@ -12,7 +12,12 @@ This Spring Boot application is a simple API that connects to the Dog CEO API to
 - Maven
 
 ### Instructions
+Clone the project (or download zip) and open it in IntelliJ.
+Make sure jdk versions match.
+Run the main method.
+On POSTMAN:
+http://localhost:8080/dog (GET)
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Daizeay/csc340Individual-Assignment-2.git
+   git clone https://github.com/Daizeay/csc340Individual-Assignment-2/tree/master
